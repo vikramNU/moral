@@ -39,7 +39,10 @@ The dataset used for HW6 is “moral_stories” from hugging face [https://huggi
 * Explain the effect of changing the inference hyperparameters.
 * Report your BLEU score for each scenario in a tabular format.
 
-Marks:
+Marks: 
+
 Graphs - 3
+
 BLEU Score table - 3
+
 Code - 4
