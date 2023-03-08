@@ -1,4 +1,4 @@
-# Generate moral societal norms - HW6
+# Generate moral societal norms 
 
 ## Backstory
 
