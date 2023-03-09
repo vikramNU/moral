@@ -13,7 +13,7 @@ The dataset used for HW6 is “moral_stories” from hugging face [https://huggi
 * Ability to use and integrate wandb as a logger and use plot curves.
 * A better understanding of Neural networks and the effect of hyperparameter changes on the model.
 
-## What you need to do: 
+## Process: 
 
 ***
 
@@ -31,18 +31,4 @@ The dataset used for HW6 is “moral_stories” from hugging face [https://huggi
 
 * Finally, evaluate your model results using the BLEU score.
 
-## What is expected : 
 
-***
-* You need to complete the code blocks in all relevant places.
-* Add graphs for at least 3 tuning changes for GPT2 hyperparameters and the loss curves from wandb and explain your reasoning regarding the changes in result for each hyperparameter change.
-* Explain the effect of changing the inference hyperparameters.
-* Report your BLEU score for each scenario in a tabular format.
-
-Marks: 
-
-Graphs - 3
-
-BLEU Score table - 3
-
-Code - 4
